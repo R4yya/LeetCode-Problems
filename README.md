@@ -1,2 +1,2 @@
 # LeetCode-Problems
-About My solutions of LeetCode problems written on Python
+My solutions of LeetCode problems written on Python
