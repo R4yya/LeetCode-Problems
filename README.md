@@ -21,3 +21,5 @@ LeetCode
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](./src/66_Plus_One.py)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Python](./src/67_Add_Binary.py)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./src/69_Sqrt(x).py)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./src/70_Climbing_Stairs.py)|Easy|
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./src/118_Pascals_Triangle.py)|Easy|
