@@ -24,3 +24,4 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./src/70_Climbing_Stairs.py)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./src/118_Pascals_Triangle.py)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/119_Pascals_Triangle_II.py)|Easy|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./src/121_Best_Time_to_Buy_and_Sell_Stock.py)|Easy|
