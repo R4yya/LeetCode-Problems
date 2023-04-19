@@ -18,3 +18,4 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Python](./src/35_Search_Insert_Position.py)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Python](./src/58_Length_of_Last_Word.py)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)|[Python](./src/66_Plus_One.py)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./src/69_Sqrt(x).py)|Easy|
