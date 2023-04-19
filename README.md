@@ -23,3 +23,4 @@ LeetCode
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Python](./src/69_Sqrt(x).py)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Python](./src/70_Climbing_Stairs.py)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Python](./src/118_Pascals_Triangle.py)|Easy|
+|119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Python](./src/119_Pascals_Triangle_II.py)|Easy|
