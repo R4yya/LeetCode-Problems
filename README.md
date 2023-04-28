@@ -29,4 +29,5 @@ LeetCode
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Python](./src/121_Best_Time_to_Buy_and_Sell_Stock.py)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Python](./src/125_Valid_Palindrome.py)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Python](./src/136_Single_Number.py)|Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Python](./src/168_Excel_Sheet_Column_Title.py)|Easy|
 |2469|[Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)|[Python](./src/2469_Convert_the_Temperature.py)|Easy|
